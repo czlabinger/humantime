@@ -19,6 +19,6 @@ name = "humantime"
 path = "src/lib.rs"
 
 [dev-dependencies]
-time = "0.1"
-chrono = "0.4"
-rand = "0.6"
+time = "^0.3.39"
+chrono = "^0.4.40"
+rand = "^0.6"
